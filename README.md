@@ -25,6 +25,8 @@ No frameworks or UI libraries were used. The project was intentionally built fro
 
 Clone or download the repository, then open `concept.html` in a web browser.
 
+or visit: https://esatcesur74.github.io/Concept-Restaurant/
+
 ## Project status
 
 This is a design concept created for demonstration and portfolio purposes. Liva Food is presented as a fictional brand, and the menu items, prices, contact details, and ordering links are sample content.
