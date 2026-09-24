@@ -23,7 +23,7 @@ No frameworks or UI libraries were used. The project was intentionally built fro
 
 ## View locally
 
-Clone or download the repository, then open `concept.html` in a web browser.
+Clone or download the repository, then open `index.html` in a web browser.
 
 or visit: https://esatcesur74.github.io/Concept-Restaurant/
 
